@@ -5,7 +5,5 @@ idx = int(input('Indeks yang dilewati? [0 ~ 4] '))
 
 for i in range(N):
     if i == idx:
-        continue
+        break
     print('Data ke-'+str(i)+': '+str(A[i]))
-    
-

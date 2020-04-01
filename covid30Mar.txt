@@ -1,0 +1,8 @@
+DKI,698,48,74
+Jabar,180,8,20
+Banten,128,1,4
+Jatim,91,16,8
+Jateng,81,0,7
+Sulsel,50,0,1
+Bali,19,0,2
+DIY,18,1,2
